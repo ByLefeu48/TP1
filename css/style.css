@@ -1,0 +1,22 @@
+ body {
+     background-image: url(https://media.istockphoto.com/id/951110068/fr/vectoriel/vecteur-de-fond-aquarelle-bleu-violet.jpg?s=612x612&w=0&k=20&c=rdiKB-QQjTGJRNPvdfR6_OatMSb7W1gqK8xCFWCFYVE=);
+     background-size: cover;
+ }
+
+ h1 {
+     color: rgb(255, 0, 0);
+     font-size: 32px;
+ }.important {
+  color: rgb(140, 0, 255);
+  font-size: 32px;
+}
+
+img{
+    height: 150px
+}
+.carte {
+  padding: 16px;
+  border: 1px solid #ddd;
+  margin: 24px;
+  border-radius: 8px;
+}
